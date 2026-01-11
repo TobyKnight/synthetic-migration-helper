@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "migration-launcher",
+  "displayName": "Synthetic Migration Helper",
+  "description": "Describe me",
+  "rootNerdletId": "migration-ui"
+}

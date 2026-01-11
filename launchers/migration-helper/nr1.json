@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "migration-helper",
+  "displayName": "MigrationHelper",
+  "description": "Describe me",
+  "rootNerdletId": "migration-ui"
+}
