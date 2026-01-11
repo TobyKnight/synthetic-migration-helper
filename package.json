@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "synthetic-migration-helper",
+    "version": "0.1.5",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "83f9f834-eaea-483a-9ab7-e9d604c0f59a"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
